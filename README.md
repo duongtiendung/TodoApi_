@@ -2,6 +2,7 @@
 Chạy docker database :
 
 cd TodoApi 
+
 docker compose up
 
 cài dotnet ef :
